@@ -1,0 +1,7 @@
+[tools]
+python = "3.15.2"
+uv = "latest"
+
+[settings]
+# Automatically trigger uv to create a .venv if it doesn't exist
+python.uv_venv_auto = true
